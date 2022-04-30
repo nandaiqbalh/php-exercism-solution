@@ -1,6 +1,5 @@
 <?php
 
-
 class Word {
     private string $word;
     private array $letters;
